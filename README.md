@@ -13,5 +13,12 @@ Schematics/BOM and Gerbers located in each ones folder.
 
 # Actual photos
 
+40 pin in A500
+
 ![image](https://user-images.githubusercontent.com/81614352/164701710-d0ddf5fc-10ba-4de5-815e-14ce9a62f760.png)
+
+42 pin x2 in A1200
+
+![image](https://user-images.githubusercontent.com/81614352/164702038-e1004d7c-96cb-4587-a1e6-9f371c470d13.png)
+
 
