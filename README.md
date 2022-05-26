@@ -26,7 +26,7 @@ Schematics/BOM and Gerbers located in each ones folder.
 An adapter for TL866 to program the flash memory. It based on the circuit:
 https://proghq.org/wiki/index.php/TL866_TSOP48_adapter
 
-Four wirec required to be connected between the adapter and FlashROM:
+Four wires required to be connected between the adapter and FlashROM(as shown below):
 A18, #BSY, #RST and #WE.
 
 ![image](https://user-images.githubusercontent.com/81614352/170577765-ba97ef12-a939-4824-9e7f-c49a6ee713c4.png)
