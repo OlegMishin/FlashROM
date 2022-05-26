@@ -22,3 +22,13 @@ Schematics/BOM and Gerbers located in each ones folder.
 ![image](https://user-images.githubusercontent.com/81614352/164702038-e1004d7c-96cb-4587-a1e6-9f371c470d13.png)
 
 
+# FlashAdapter
+An adapter for TL866 to program the flash memory. It based on the circuit:
+https://proghq.org/wiki/index.php/TL866_TSOP48_adapter
+Circuit diagram, gerbers and ATtiny firmware are in "FlashAdapter" folder.
+
+Four wires required to be connected between the adapter and 40pin FlashROM(as shown below):
+A18, #BSY, #RST and #WE. 
+For 42pin FlashROM, only needed #BSY, #RST and #WE as A18 and A19 already connected via socket's pins 1 and 2.
+
+![image](https://user-images.githubusercontent.com/81614352/170577765-ba97ef12-a939-4824-9e7f-c49a6ee713c4.png)
