@@ -1,9 +1,10 @@
 # FlashROM
-Different Kickstart Flash memory for Amiga computers.
+Different Flash memory adapters for Commodore/Amiga or other classic computers/devices.
 
-For now there is two types of the FlashROM: 
+For now there are following types of the FlashROM: 
 1. 40pin to be used in Amiga 500.
 2. 42 pin designed for my Amiga 1200 but also can be used in A500 rev 8 mainboard.
+3. 24 pin for Commodore 64 computers. Replacement for 2316/2332/2364 ROM chips.
 
 Schematics/BOM and Gerbers located in each ones folder.
 
