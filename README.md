@@ -22,6 +22,10 @@ Schematics/BOM and Gerbers located in each ones folder.
 
 ![image](https://user-images.githubusercontent.com/81614352/164702038-e1004d7c-96cb-4587-a1e6-9f371c470d13.png)
 
+24 pin, KERNAL, CHAR, BASIC ROMs replacement in Commodore C64
+
+![image](https://user-images.githubusercontent.com/81614352/170873651-b827d464-fac2-4697-8e85-1b298f188321.png)
+
 
 # FlashAdapter
 An adapter for TL866 to program the flash memory. It based on the circuit:
