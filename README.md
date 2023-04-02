@@ -31,10 +31,14 @@ Schematics/BOM and Gerbers located in each ones folder.
 
 ![image](https://user-images.githubusercontent.com/81614352/229347155-5faee86f-7641-4c63-8e72-032dd1b81a13.png)
 
+To flash 28 pin FlashROM a simple adapter is needed as the pcb has four test points for flash control signals.
+![image](https://user-images.githubusercontent.com/81614352/229347387-d288125d-6bfa-4db1-94ac-310a003501fa.png)
+
+
 
 
 # FlashAdapter
-An adapter for TL866 to program the flash memory. It based on the circuit:
+An adapter for TL866 to program the 16 bit flash memory(40, 42 pin). It based on the circuit:
 https://proghq.org/wiki/index.php/TL866_TSOP48_adapter
 Circuit diagram, gerbers and ATtiny firmware are in "FlashAdapter" folder.
 
