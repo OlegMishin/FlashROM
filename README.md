@@ -5,6 +5,7 @@ For now there are following types of the FlashROM:
 1. 40pin to be used in Amiga 500.
 2. 42 pin designed for my Amiga 1200 but also can be used in A500 rev 8 mainboard.
 3. 24 pin for Commodore 64 computers. Replacement for 2316/2332/2364 ROM chips.
+4. 28 pin for other devices. Replaces 2764..27512.
 
 Schematics/BOM and Gerbers located in each ones folder.
 
