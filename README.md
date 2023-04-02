@@ -32,6 +32,8 @@ Schematics/BOM and Gerbers located in each ones folder.
 ![image](https://user-images.githubusercontent.com/81614352/229347155-5faee86f-7641-4c63-8e72-032dd1b81a13.png)
 
 To flash 28 pin FlashROM a simple adapter is needed as the pcb has four test points for flash control signals.
+I used a pcb with 32 pin socket and spring needle pins to reach the test points.
+
 ![image](https://user-images.githubusercontent.com/81614352/229347387-d288125d-6bfa-4db1-94ac-310a003501fa.png)
 
 
